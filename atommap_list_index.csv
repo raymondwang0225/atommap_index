@@ -1,5 +1,7 @@
 atomical_number,atomical_id,atommap_number,filepath,atomical_bitworkc,bitworkc_number
 54434,ab047b1019b8e1fb08a64b2183a5708add864809ff109e63b12e1cacf106b2dei0,0,C:\Users\31905\Downloads\atommap_svg_final\0.atommap.svg,ab0,0
+54782,ab10fd76a1386ab351817f5a9c4a8cac34736d585f7d4db4ba89c865d45d05d5i0,10,C:\Users\31905\Downloads\atommap_svg_final\10.atommap.svg,ab10,10
+54977,ab100580487b20c23d8d469a1c98d0750f4ab24600372d7f00c4f5dfeb75dd16i0,100,C:\Users\31905\Downloads\atommap_svg_final\100.atommap.svg,ab100,100
 55706,ab1d66fac6a1e7f955c15ccf017fd0ac71f37895b263b8a9df0f515df8d7c238i0,1,C:\Users\31905\Downloads\atommap_svg_final\1.atommap.svg,ab1,1
 55707,ab98d9b85bb27592a5bb9781a0e6afa0f68586041af80ebbcb4a4891baa4c9d1i0,9,C:\Users\31905\Downloads\atommap_svg_final\9.atommap.svg,ab9,9
 55708,ab48e29830cc9be143ab9ebbcb967fea794ce2bc5b5e236ea728aa5f7caba162i0,4,C:\Users\31905\Downloads\atommap_svg_final\4.atommap.svg,ab4,4
@@ -69,7 +71,6 @@ atomical_number,atomical_id,atommap_number,filepath,atomical_bitworkc,bitworkc_n
 55812,ab40f709ba337d97fa8581b256a09b941b62da6d736948cda731388de72bdad1i0,40,40.atommap.svg,ab40,40
 55813,ab6312f2a4cbcfe881b72b3fbd499f528239574cd9387c758faa7508b2b0c0f6i0,63,63.atommap.svg,ab63,63
 55814,ab79295b2eeefbaa9b93d9b87191b5bb600ce339e49073769f078948ba20f9bci0,79,79.atommap.svg,ab79,79
-55816,ab1072c9052248b97ffaef31cba8f8bf6e674b3924aae7230d20cf94c312cfdfi0,10,10.atommap.svg,ab10,10
 55817,ab345943f51378a5b2512d8c3ce5c57f13b193f2f9e3cd86cd34fb9abe9ed8cfi0,34,34.atommap.svg,ab34,34
 55819,ab4145a4a36629f77a0e145793f231fc1484cb37052ada8bcf6cf37a51ab4902i0,41,41.atommap.svg,ab41,41
 55822,ab6006f62ff97599bf955acac36a3269e404696954d09cdb5acab40f8d6f1e32i0,60,60.atommap.svg,ab60,60
@@ -263,7 +264,6 @@ atomical_number,atomical_id,atommap_number,filepath,atomical_bitworkc,bitworkc_n
 56492,ab82113b6e851f6909df25615a9cf067dcf851eb6694c24582995fa9b1556315i0,821,821.atommap.svg,ab821,821
 56493,ab1818b6673cad4ba6f8df76ea24be22bd42839ce2ec8608752ee0f7e17b62b7i0,181,181.atommap.svg,ab181,181
 56496,ab5171d056647d647ded515685c8d76aa3571e25e0000a791f7304a3227d732ci0,517,517.atommap.svg,ab517,517
-56497,ab1003a53b65fa6a54ebf522ad2bde1fc5c13e36c0a90c7409b90f1c7b06185ai0,100,100.atommap.svg,ab100,100
 56501,ab370d2aedce1fe8951167d4478f652d2e6af94ed2656726d9da3e73d94b9b3ai0,370,370.atommap.svg,ab370,370
 56502,ab483544769286ff78f068b4aace1bc54f4495892b0278c9e58a67cf6061d1c3i0,483,483.atommap.svg,ab483,483
 56503,ab7866644d2f15e28a05d5f5073cdb1d5eef7e85e6dbf8a83a18d8fadbec2a6bi0,786,786.atommap.svg,ab786,786
